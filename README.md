@@ -9,7 +9,7 @@ Features
 	- Game loop with 'game over' spectating.
 	- Works fully in multiplayer!
 
-Includes solutions to several challenges you create during the Udemy Course:
+
 
 	- Black Hole (Sucking up nearby Actors)
 	- Launch Pad (Launch Players and Actors)
